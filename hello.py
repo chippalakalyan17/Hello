@@ -1,7 +1,5 @@
 def func (:
-  print(hello)
-
-
+  print("hii")
 func()
 
-prin("hehe")
+print("hehe")
